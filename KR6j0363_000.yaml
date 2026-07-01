@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0363/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大虛空藏菩薩念誦法
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1146.xml
+    old_id: T20n1146
+hash: sha256:dcb9419c4c99521e075a9c09405aad0b76046ea7c90d7cf317ab99ed9af1bdd2

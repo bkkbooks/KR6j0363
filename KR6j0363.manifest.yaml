@@ -1,0 +1,60 @@
+canonical_identifier: bkk:krp/KR6j0363/v1
+canonical_location: https://kanripo.org/bkk/KR6j0363/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 大虛空藏菩薩念誦法
+  identifiers:
+    alt_id:
+    - T20n1146
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1146.xml
+    old_id: T20n1146
+  edition:
+    short: bkk
+editions:
+- short: 明
+  label: 明
+  source_xml_id: wit1
+- short: 乙
+  label: 乙
+  source_xml_id: wit2
+- short: 宋
+  label: 宋
+  source_xml_id: wit3
+- short: 元
+  label: 元
+  source_xml_id: wit4
+- short: 甲
+  label: 甲
+  source_xml_id: wit5
+- short: 丙
+  label: 丙
+  source_xml_id: wit6
+- short: 丁
+  label: 丁
+  source_xml_id: wit7
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0363_000.yaml, hash: 'sha256:dcb9419c4c99521e075a9c09405aad0b76046ea7c90d7cf317ab99ed9af1bdd2'}
+  - {seq: 1, filename: KR6j0363_001.yaml, hash: 'sha256:490e2fbd20958e1083748399f5cd1663225ec266264732dca3d70a46ce14f766'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0363_001.markers.yaml, hash: 'sha256:35e1fd2862741e600fea4d4b3bde724429d8fd4aac2c5ce48ad0eaf83ecc2d0c'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0363_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1794
+  label: 大虛空藏菩薩念誦法
+  type: juan
+  level: 1
+hash: sha256:f872e15ef37b4b1c0779b9050d38f2db71b6658e79cd00600426d0e831940447
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

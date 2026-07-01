@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6j0363/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0363/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大虛空藏菩薩念誦法
+  identifiers:
+    krp: KR6j0363
+    cbeta: T20n1146
+    cbeta_old_id: T20n1146
+    authorityid: CA0000697
+    json_key: T1146
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1146.xml
+    old_id: T20n1146
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0363_000-T.yaml, hash: 'sha256:dcb9419c4c99521e075a9c09405aad0b76046ea7c90d7cf317ab99ed9af1bdd2'}
+  - {seq: 1, filename: KR6j0363_001-T.yaml, hash: 'sha256:c356f467ae64bee6499417cd9a382adea45bed48179a3060cc8afdf70587c56f'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0363_000-T.markers.yaml, hash: 'sha256:8734cf640084845a989920cd01ad466e74550ff27476a4d7abd7afc7b3b04029'}
+  - {seq: 1, role: markers, filename: assets/KR6j0363_001-T.markers.yaml, hash: 'sha256:1e4db75dd8be4ca672411e60a40444c2eea982dd3df31c662cab68ceb8e327fc'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0363_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1794
+  label: 大虛空藏菩薩念誦法
+  type: juan
+  level: 1
+hash: sha256:fe49cdaba8e799ab2a0102febb8d3d27b55e6699eb4e08e68c7381d69023faef
