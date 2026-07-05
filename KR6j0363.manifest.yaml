@@ -40,9 +40,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0363_000.yaml, hash: 'sha256:dcb9419c4c99521e075a9c09405aad0b76046ea7c90d7cf317ab99ed9af1bdd2'}
-  - {seq: 1, filename: KR6j0363_001.yaml, hash: 'sha256:490e2fbd20958e1083748399f5cd1663225ec266264732dca3d70a46ce14f766'}
+  - {seq: 1, filename: KR6j0363_001.yaml, hash: 'sha256:c356f467ae64bee6499417cd9a382adea45bed48179a3060cc8afdf70587c56f'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0363_001.markers.yaml, hash: 'sha256:35e1fd2862741e600fea4d4b3bde724429d8fd4aac2c5ce48ad0eaf83ecc2d0c'}
+  - {seq: 0, role: markers, filename: assets/KR6j0363_000.markers.yaml, hash: 'sha256:c8b4649d31c0c4a7b73107262101e05054d3124f47a5867379867f0dead6f4d0'}
+  - {seq: 1, role: markers, filename: assets/KR6j0363_001.markers.yaml, hash: 'sha256:dc3edba783b1211fdc551535ee823e07a54037e688d4812719a6c5ad799b1fb1'}
 table_of_contents:
 - ref:
     seq: 1
@@ -54,7 +55,4 @@ table_of_contents:
   label: 大虛空藏菩薩念誦法
   type: juan
   level: 1
-hash: sha256:f872e15ef37b4b1c0779b9050d38f2db71b6658e79cd00600426d0e831940447
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:50b9b76d65553dd0e120ce126087d4bbf277b0cf6d40b36f0645a8a7744b718c
