@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0363/v1
 canonical_location: https://kanripo.org/bkk/KR6j0363/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 大虛空藏菩薩念誦法
   identifiers:
@@ -40,10 +40,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0363_000.yaml, hash: 'sha256:dcb9419c4c99521e075a9c09405aad0b76046ea7c90d7cf317ab99ed9af1bdd2'}
-  - {seq: 1, filename: KR6j0363_001.yaml, hash: 'sha256:c356f467ae64bee6499417cd9a382adea45bed48179a3060cc8afdf70587c56f'}
+  - {seq: 1, filename: KR6j0363_001.yaml, hash: 'sha256:cf4a4963d32087a9845eb3c458959aa869107de67134957f947217a74cc75011'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0363_000.markers.yaml, hash: 'sha256:c8b4649d31c0c4a7b73107262101e05054d3124f47a5867379867f0dead6f4d0'}
-  - {seq: 1, role: markers, filename: assets/KR6j0363_001.markers.yaml, hash: 'sha256:dc3edba783b1211fdc551535ee823e07a54037e688d4812719a6c5ad799b1fb1'}
+  - {seq: 1, role: markers, filename: assets/KR6j0363_001.markers.yaml, hash: 'sha256:8a96ce0b7af8b3d8ab98a89cc2ef2c385e038c8d253bf637775e48129338938d'}
 table_of_contents:
 - ref:
     seq: 1
@@ -55,4 +55,7 @@ table_of_contents:
   label: 大虛空藏菩薩念誦法
   type: juan
   level: 1
-hash: sha256:50b9b76d65553dd0e120ce126087d4bbf277b0cf6d40b36f0645a8a7744b718c
+hash: sha256:8e7f20327f6624c81b53104a1165815fea59335055126b15b13789b893cfff97
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
